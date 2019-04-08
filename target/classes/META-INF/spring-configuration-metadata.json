@@ -1,0 +1,19 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.YassineGroup.storage.StorageProperties",
+      "name": "storage",
+      "type": "com.YassineGroup.storage.StorageProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.YassineGroup.storage.StorageProperties",
+      "defaultValue": "upload-dir",
+      "name": "storage.location",
+      "description": "Folder location for storing files",
+      "type": "java.lang.String"
+    }
+  ]
+}
